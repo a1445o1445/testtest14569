@@ -1,0 +1,1 @@
+﻿vless://d342d11e-d424-4583-b36e-524ab1f0afa4@edtunnel-y04.pages.dev:443?encryption=none&security=tls&sni=edtunnel-y04.pages.dev&type=ws&host=edtunnel-y04.pages.dev&path=%2F%3Fed%3D2048#edtunnel-y04.pages.dev
